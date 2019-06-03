@@ -1,0 +1,23 @@
+{
+  "name": "node_notes",
+  "version": "1.0.0",
+  "description": "Node Notes",
+  "main": "writeFileToFolder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minusthebear/node-notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minusthebear/node-notes/issues"
+  },
+  "homepage": "https://github.com/minusthebear/node-notes#readme",
+  "dependencies": {
+    "rimraf": "^2.6.3"
+  }
+}
