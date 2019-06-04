@@ -2,7 +2,7 @@
   "name": "node_notes",
   "version": "1.0.0",
   "description": "Node Notes",
-  "main": "writeFileToFolder.js",
+  "main": "createOrDeleteDemoFiles.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
